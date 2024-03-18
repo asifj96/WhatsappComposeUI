@@ -70,6 +70,7 @@ dependencies {
     /**
      * used for system Ui colors and status bar colors
      */
+    //noinspection GradleDependency
     implementation("com.google.accompanist:accompanist-systemuicontroller:0.28.0")
 
 }
